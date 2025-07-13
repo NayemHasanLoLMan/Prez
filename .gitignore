@@ -144,6 +144,9 @@ ENV/
 env.bak/
 venv.bak/
 
+.venv/
+#   If you use a virtual environment, it is recommended to include the virtual environment
+
 # Spyder project settings
 .spyderproject
 .spyproject
